@@ -1,4 +1,4 @@
-# Agendamentos
+# App de Agendamentos medicos
 
 Uma aplicação para consultas médicas usando Native Base e TypeScript no React Native.
 
